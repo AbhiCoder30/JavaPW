@@ -5,6 +5,7 @@ public class L1_Mains {
         int num2 = 20;
         int num3 = 30;
         int Sum = num1 + num2 + num3;
+        int sub = num1 - num2 + num3;
         System.out.println(Sum);
     }
 }
